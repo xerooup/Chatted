@@ -17,7 +17,7 @@ This is the terminal/command-line version for creating chat servers.
 **Usage:**
 To start the server, simply move the folder to any location and run `start.bat`. A window will open showing possible launch arguments for the file.
 
-Example of creating a server:
+**Example of creating a server:**
 ```batch
 @echo off
 java -jar ChattedServer.jar --server 8888
